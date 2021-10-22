@@ -10,3 +10,6 @@ public esta la base de datos
 commando para prender la aplicacion
 
 php artisan serve
+
+url server local
+http://localhost:8000/
